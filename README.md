@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Shashi 👋
 
-<!--
-**shekharshashi-cmyk/shekharshashi-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I help cybersecurity founders turn a good product into repeatable revenue and loyal customers.**
 
-Here are some ideas to get you started:
+25+ years in security, from Unix and network security engineering to running global B2B accounts and customer experience for a leading security vendor. Still hands-on, and exploring AI security and governance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Where I can help**
+
+- **B2B go-to-market:** positioning, buyer journey, win-loss analysis
+- **Customer success and experience:** onboarding, retention, advocacy, references
+- **Enterprise, channel and alliance partnerships**
+- **AI security and governance:** how buyers evaluate it and what they'll ask you
+
+**Credentials:** CISSP · CISM · CISA
+
+**Talk to me:** [Book a 30-min intro call](https://calendly.com/shekhar-shashi/30min) · [LinkedIn](https://www.linkedin.com/in/sshekhar)
