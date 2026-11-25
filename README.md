@@ -2,7 +2,7 @@
 
 **I help cybersecurity founders turn a good product into repeatable revenue and loyal customers.**
 
-25+ years in security, from Unix and network security engineering to running global B2B accounts and customer experience for a leading security vendor. Still hands-on, and exploring AI security and governance.
+Cybersecurity executive with 25+ years of experience spanning engineering, strategic alliances and customer experience at a global security vendor. I help founders build credible go-to-market and retention engines, and prepare for the AI security and governance questions buyers now ask.
 
 **Where I can help**
 
